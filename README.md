@@ -52,7 +52,7 @@
         </section>
         <section class="musik">
             <h2>Musik dan Spotify</h2>
-            <p>Saya suka mendengarkan musik di Spotify. Anda bisa mengikuti playlist favorit saya di <a href="https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh?si=k9WDAMWPTnWUMSK_qMHIqA" target="_blank">Spotify</a>.</p>
+            <p>Saya suka mendengarkan musik di Spotify. Anda bisa mengikuti playlist favorit saya di <a href="https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw?si=1EhH3yUhQTa4Um91rMARuA" target="_blank">Spotify</a>.</p>
         </section>
         <section class="sosial-media">
             <h2>Ikuti Saya di Sosial Media</h2>
